@@ -1,0 +1,27 @@
+h1 {
+	text-align: center;
+	font-family: ;
+}
+
+#gametitle, 
+#gamerules, 
+#budget, 
+#win, 
+#lose,
+#commentary, 
+#buttonpresses, 
+#stickershock {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#gamerules {
+	border: solid black 4px;
+	padding: 15px;
+}
+
+body {
+    background-image: url(wedback.jpg);
+    height: 100%;
+}
+
